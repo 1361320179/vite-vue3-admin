@@ -1,0 +1,1 @@
+System.register(["./index-legacy.ba38c0f4.js"],(function(e){"use strict";var t,n,r;return{setters:[function(e){t=e.J,n=e.N,r=e.O}],execute:function(){e("default",t({},[["render",function(e,t){return n(),r("div",null," 个人中心 ")}]]))}}}));
